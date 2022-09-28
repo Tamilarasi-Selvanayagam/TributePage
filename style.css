@@ -1,0 +1,42 @@
+body {
+    background-color: #00FC8A;
+}
+
+main {
+    width: 80vh;
+    height: 100%;
+    margin: auto;
+}
+
+#title {
+    text-align: center;
+    justify-content: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+
+img {
+    display: inline-block;
+    transform: translateX(65px);
+}
+
+
+/* #caption {
+    text-align: center;
+} */
+
+article {
+    width: 100vh;
+    margin: auto;
+    /* background-color: white; */
+    /* opacity: 0.81; */
+    border-style: hidden;
+    border-width: 1px;
+    box-shadow: 20px 20px 20px #98FB98;
+    background-color: rgb(46, 139, 87, 0.25);
+}
+
+footer {
+    width: 100vh;
+    margin: auto;
+}
